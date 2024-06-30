@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|c:\\users\\qasim\\source\\repos\\wordfrequencyanalyzer\\wordfrequencyanalyzer\\implementations\\wordfrequencyanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|solutionrelative:wordfrequencyanalyzer\\implementations\\wordfrequencyanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|c:\\users\\qasim\\source\\repos\\wordfrequencyanalyzer\\wordfrequencyanalyzer\\interfaces\\iwordfrequencyanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|solutionrelative:wordfrequencyanalyzer\\interfaces\\iwordfrequencyanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|c:\\users\\qasim\\source\\repos\\wordfrequencyanalyzer\\wordfrequencyanalyzer\\interfaces\\iwordfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|solutionrelative:wordfrequencyanalyzer\\interfaces\\iwordfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|c:\\users\\qasim\\source\\repos\\wordfrequencyanalyzer\\wordfrequencyanalyzer\\implementations\\wordfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}|WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj|solutionrelative:wordfrequencyanalyzer\\implementations\\wordfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWordFrequencyAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Interfaces\\IWordFrequencyAnalyzer.cs",
+              "RelativeDocumentMoniker": "WordFrequencyAnalyzer\\Interfaces\\IWordFrequencyAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Interfaces\\IWordFrequencyAnalyzer.cs",
+              "RelativeToolTip": "WordFrequencyAnalyzer\\Interfaces\\IWordFrequencyAnalyzer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:14:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWordFrequency.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Interfaces\\IWordFrequency.cs",
+              "RelativeDocumentMoniker": "WordFrequencyAnalyzer\\Interfaces\\IWordFrequency.cs",
+              "ToolTip": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Interfaces\\IWordFrequency.cs",
+              "RelativeToolTip": "WordFrequencyAnalyzer\\Interfaces\\IWordFrequency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:14:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordFrequencyAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Implementations\\WordFrequencyAnalyzer.cs",
+              "RelativeDocumentMoniker": "WordFrequencyAnalyzer\\Implementations\\WordFrequencyAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Implementations\\WordFrequencyAnalyzer.cs",
+              "RelativeToolTip": "WordFrequencyAnalyzer\\Implementations\\WordFrequencyAnalyzer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:00:02.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordFrequency.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Implementations\\WordFrequency.cs",
+              "RelativeDocumentMoniker": "WordFrequencyAnalyzer\\Implementations\\WordFrequency.cs",
+              "ToolTip": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\Implementations\\WordFrequency.cs",
+              "RelativeToolTip": "WordFrequencyAnalyzer\\Implementations\\WordFrequency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:59:59.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

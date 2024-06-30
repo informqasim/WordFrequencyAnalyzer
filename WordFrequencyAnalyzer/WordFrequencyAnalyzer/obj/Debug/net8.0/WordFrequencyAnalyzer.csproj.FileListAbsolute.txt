@@ -1,0 +1,17 @@
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\WordFrequencyAnalyzer.deps.json
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\WordFrequencyAnalyzer.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\WordFrequencyAnalyzer.pdb
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.AssemblyInfo.cs
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\refint\WordFrequencyAnalyzer.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.pdb
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\ref\WordFrequencyAnalyzer.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\bin\Debug\net8.0\WordFrequencyAnalyzer.runtimeconfig.json
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Qasim\source\repos\WordFrequencyAnalyzer\WordFrequencyAnalyzer\obj\Debug\net8.0\WordFrequencyAnalyzer.genruntimeconfig.cache

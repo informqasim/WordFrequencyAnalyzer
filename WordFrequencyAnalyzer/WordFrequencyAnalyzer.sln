@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequencyAnalyzer", "WordFrequencyAnalyzer\WordFrequencyAnalyzer.csproj", "{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequencyAnalyzer.Tests", "WordFrequencyAnalyzer.Tests\WordFrequencyAnalyzer.Tests.csproj", "{83D2FAF9-05D5-4D0D-9451-F9A9CA6835C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0BECBE-B73B-4BF1-BB65-A16B8B507861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D2FAF9-05D5-4D0D-9451-F9A9CA6835C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D2FAF9-05D5-4D0D-9451-F9A9CA6835C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D2FAF9-05D5-4D0D-9451-F9A9CA6835C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D2FAF9-05D5-4D0D-9451-F9A9CA6835C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA0D1CC-0D9A-407D-B72C-009CE148FD72}
+	EndGlobalSection
+EndGlobal

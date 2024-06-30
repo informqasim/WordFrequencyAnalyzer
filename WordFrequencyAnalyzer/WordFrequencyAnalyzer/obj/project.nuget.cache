@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdok+FivkSEU4fzwIB/llfouoDa+udYuicSxJ+lbHJ2GTu5mXReHOfBcW+EI+E+8XcHFV98uxMEFOoQzzIytvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Qasim\\source\\repos\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer\\WordFrequencyAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512",
+    "C:\\Users\\Qasim\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.1\\xunit.runner.visualstudio.2.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
